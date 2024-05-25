@@ -853,7 +853,7 @@ Services Style
 ---------------------------------------------
 About Style
 --------------------------------------------- 
-*/
+*/ 
 
 .about-us {
   position: relative;
@@ -878,7 +878,7 @@ About Style
 .accordion {
   margin-top: -40px;
   margin-bottom: -40px;
-  background-color: #24b13c;
+  background-color: #3098D9;
   border-radius: 40px;
   padding: 80px 50px 50px 50px;
 }
@@ -897,7 +897,7 @@ About Style
 }
 
 .accordion-button:not(.collapsed) {
-  color: #7a6ad8;
+  color: #18181a;
   background-color: #fff;
 }
 
@@ -919,7 +919,7 @@ h2.accordion-header button {
   text-align: center;
   line-height: 30px;
   border-radius: 50%;
-  background-color: #7a6ad8;
+  background-color: #3098D9;
   color: #fff;
 }
 
@@ -1460,7 +1460,7 @@ Contact Style
   width: 80px;
   padding: 30px 8px;
   line-height: 25px;
-  height: 120px;
+  height: 180px;
   border-radius: 15px 60px 60px 15px; 
   display: inline-block;
   text-align: center;
