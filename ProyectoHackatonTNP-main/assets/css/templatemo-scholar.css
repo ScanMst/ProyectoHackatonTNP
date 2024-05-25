@@ -120,12 +120,12 @@ body {
 }
 
 ::selection {
-  background: #7a6ad8;
+  background: #9d8143c5;
   color: #fff;
 }
 
 ::-moz-selection {
-  background: #7a6ad8;
+  background: #9d8143c5;
   color: #fff;
 }
 
@@ -147,12 +147,12 @@ body {
 }
 
 .section-heading h2 em {
-  color: #7a6ad8;
+  color: #9d8143c5;
   font-style: normal;
 }
 
 .section-heading h6 {
-  color: #7a6ad8;
+  color: #3098D9;
   font-size: 14px;
   text-transform: uppercase;
   font-weight: 600;
@@ -161,7 +161,7 @@ body {
 .main-button a {
   display: inline-block;
   background-color: #fff;
-  color: #7a6ad8;
+  color: #9d8143c5;
   font-size: 14px;
   font-weight: 500;
   height: 40px;
@@ -172,7 +172,7 @@ body {
 }
 
 .main-button a:hover {
-  background-color: #7a6ad8;
+  background-color: #9d8143c5;
   color: #fff;
 }
 
@@ -285,7 +285,7 @@ Header Style
 */
 
 .background-header {
-  background-color: #7a6ad8 !important;
+  background-color: #3098D9 !important;
   border-radius: 0px 0px 25px 25px;
   height: 80px!important;
   position: fixed!important;
@@ -696,7 +696,7 @@ Banner Style
 }
 
 .main-banner .item span.category {
-  background-color: #7a6ad8;
+  background-color: #397995c5;
   color: #fff;
   font-size: 14px;
   text-transform: uppercase;
@@ -709,14 +709,14 @@ Banner Style
 .main-banner .item h2 {
   font-size: 48px;
   font-weight: 700;
-  color: #fff;
+  color: #0a0909;
   line-height: 70px;
   width: 60%;
   margin-bottom: 40px;
 }
 
 .main-banner .item p {
-  color: #fff;
+  color: #0a0909;
   width: 65%;
 }
 
@@ -731,7 +731,7 @@ Banner Style
 
 .main-banner .item .buttons .main-button a {
   font-size: 14px;
-  color: #7a6ad8;
+  color: #0a0909;
   background-color: #fff;
   display: inline-block;
   height: 50px;
@@ -742,7 +742,7 @@ Banner Style
 }
 
 .main-banner .item .buttons .icon-button i {
-  color: #7a6ad8;
+  color: #0a0909;
   background-color: #fff;
   display: inline-block;
   height: 50px;
@@ -878,7 +878,7 @@ About Style
 .accordion {
   margin-top: -40px;
   margin-bottom: -40px;
-  background-color: #7a6ad8;
+  background-color: #24b13c;
   border-radius: 40px;
   padding: 80px 50px 50px 50px;
 }
@@ -961,7 +961,7 @@ Courses Style
 }
 
 .event_filter {
-  background-color: #f1f0fe;
+  background-color: #3098D9;
   border-radius: 50px;
   padding: 15px 40px;
   list-style: none;
@@ -985,7 +985,7 @@ Courses Style
 
 .event_filter li a.is_active,
 .event_filter li a:hover {
-  color: #7a6ad8;
+  color: #3098D9;
 }
 
 .events_item .thumb {
@@ -1004,7 +1004,7 @@ Courses Style
   top: 30px;
   font-size: 14px;
   text-transform: uppercase;
-  color: #7a6ad8;
+  color: #09090a;
   background-color: rgba(250, 250, 250, 0.95);
   padding: 8px 20px;
   border-radius: 25px;
@@ -1016,7 +1016,7 @@ Courses Style
   position: absolute;
   right: -30px;
   top: -50px;
-  background-color: rgba(122, 106, 216, 0.95);
+  background-color: rgba(66, 157, 226, 0.95);
   width: 130px;
   height: 130px;
   border-radius: 50%;
@@ -1054,7 +1054,7 @@ Courses Style
 }
 
 .events_item .down-content span.author {
-  color: #7a6ad8;
+  color: #3098D9;
   font-size: 15px;
   display: inline-block;
   margin-bottom: 6px;
@@ -1067,7 +1067,7 @@ Courses Style
 }
 
 .events_item:hover .down-content h4 {
-  color: #7a6ad8;
+  color: #0c1cc2;
 }
 
 .events_item:hover .thumb span.price {
@@ -1095,7 +1095,7 @@ Facts Style
   z-index: -1;
   width: 95%;
   height: 100%;
-  background-color: #7a6ad8;
+  background-color: #3098D9;
   content: '';
   border-top-right-radius: 500px;
   border-bottom-right-radius: 500px;
