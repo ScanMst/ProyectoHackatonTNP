@@ -145,7 +145,7 @@ body {
 .main-button a {
   display: inline-block;
   background-color: #fff;
-  color: #9d8143c5;
+  color: #3098D9;
   font-size: 14px;
   font-weight: 500;
   height: 40px;
@@ -156,7 +156,7 @@ body {
 }
 
 .main-button a:hover {
-  background-color: #9d8143c5;
+  background-color: #3098D9;
   color: #fff;
 }
 
@@ -799,7 +799,7 @@ Services Style
   display: inline-block;
   text-align: center;
   line-height: 190px;
-  background-color: #7a6ad8;
+  background-color: #3098D9;
   border-radius: 50%;
   position: absolute;
   right: 0;
